@@ -1,7 +1,7 @@
 {
   "name": "task_1",
   "version": "1.0.0",
-  "main": "webpack.config.js",
+  "main": "index.js",
   "devDependencies": {
     "clean-webpack-plugin": "^4.0.0",
     "css-loader": "^6.10.0",
